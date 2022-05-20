@@ -1,5 +1,8 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Foutsung&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
+
+**👁 몰입하는걸 좋아하는 개발자 입니다.**
+
 - **Language**: Javascript, TypeScript, C, Python
 - **Skills** : React, React Native, Expo, Node.js, GitHub Actions, React Three Fiber, Canvas API
 
