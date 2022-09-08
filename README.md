@@ -6,7 +6,7 @@
 - **Language**: Javascript, TypeScript, C, Python
 - **Skills** : React, React Native, Expo, Node.js, GitHub Actions, React Three Fiber, Canvas API
 
-<!-- 
+
 <a href="https://github.com/outsung/github-readme-awesome">
   <img src="https://github-readme-awesome.vercel.app/api/calendar/badge/bb063cd2-b9be-4e59-b9b8-8eaf5ceaf529"/>
 </a>
@@ -34,7 +34,7 @@
 <a href="https://github.com/PersonalShopperDev">
   <img src="https://github-readme-awesome.vercel.app/api/calendar/badge/04a7e740-1e19-4d4e-b109-9007597a265d"/>
 </a>
--->
+
 
 
 <br>
